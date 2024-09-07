@@ -1,11 +1,11 @@
-<h1 align="center">Hello there! I am Abdallah Jalil</h1>
+<h1 align="center">Hi 👋, I'm Abdallah Jalil</h1>
 <h3 align="center">A Birzeit University student, Interested in Web Development, especially Front-end Development, Mobile Applications and content creation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=019mj&label=Profile%20views&color=0e75b6&style=flat" alt="019mj" /> </p>
 
 - 🌱 I’m currently learning **React Framework**
 
-- 📝 I regularly create educational content at [youtube.com/@019mj](youtube.com/@019mj)
+- 📝 I regularly create educational content at [https://www.youtube.com/@019mj](https://www.youtube.com/@019mj)
 
 - 📫 How to reach me **019jalil@gmail.com**
 
@@ -21,7 +21,7 @@
 <a href="https://instagram.com/019mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="019mj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/019mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="019mj" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/019mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="019mj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/019mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="019mj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/019mjy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="019mjy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
