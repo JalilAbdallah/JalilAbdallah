@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdallah Abdul-jalil</h1>
-<h3 align="center">A Birzeit University student, Interested in Web Development, especially Full-Stack Development, Mobile Applications and content creation</h3>
+<h3 align="center">A Birzeit University student, Interested in Web Development, especially Front-end Development, Mobile Applications and content creation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=019mj&label=Profile%20views&color=0e75b6&style=flat" alt="019mj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=019mj" alt="019mj" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **React Freamwork**
 
 - 📝 I regularly create educational content at [youtube.com/@019mj](youtube.com/@019mj)
 
