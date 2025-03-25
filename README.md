@@ -7,7 +7,7 @@
 
 - 📝 I regularly create educational content at [https://www.youtube.com/@019mj](https://www.youtube.com/@019mj)
 
-- 📫 How to reach me **019jalil@gmail.com**
+- 📫 How to reach me **abdallahjalil19@gmail.com**
 
 - 📄 You can find my resume here [https://drive.google.com/file/d/1AeCk5be3o-cqi6_hSziJ4Ct3I6CFTKSk/view?usp=sharing](https://drive.google.com/file/d/1AeCk5be3o-cqi6_hSziJ4Ct3I6CFTKSk/view?usp=sharing)
 
