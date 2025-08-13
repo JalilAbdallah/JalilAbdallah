@@ -1,9 +1,8 @@
 <h1 align="center">Hello there, This is Abdallah Jalil</h1>
-<h3 align="center">Computer Science Student || Frontend Developer</h3>
+<h3 align="center">Graduated Computer Science Student || High Distinction || Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=019mj&label=Profile%20views&color=0e75b6&style=flat" alt="019mj" /> </p>
 
-- 🔭 I’m currently working at [Falak Solutions](http://falak-solutions.com)
 
 - 📝 I regularly create educational content at [https://www.youtube.com/@019mj](https://www.youtube.com/@019mj)
 
