@@ -4,16 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=019mj&label=Profile%20views&color=0e75b6&style=flat" alt="019mj" /> </p>
 
 
-- 📝 I regularly create educational content at [https://www.youtube.com/@019mj](https://www.youtube.com/@019mj)
+- 📝 I regularly create educational content at [Abdallah Jalil](https://www.youtube.com/@AbdallahJalil)
 
-- 📫 How to reach me **abdallah.jalil19@gmail.com**
+- 📫 How to reach me **abdallah.abduljalil@outlook.com**
 
-- 📄 You can find my resume here [https://drive.google.com/file/d/1AeCk5be3o-cqi6_hSziJ4Ct3I6CFTKSk/view?usp=sharing](https://drive.google.com/file/d/1AeCk5be3o-cqi6_hSziJ4Ct3I6CFTKSk/view?usp=sharing)
+- 📄 You can find my resume [here](https://drive.google.com/file/d/1O5DgNM6APWM0Du6Ri6Xi_GG2uOkbndvY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/019mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="019mj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/019mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="019mj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jalilabdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jalilabdallah" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/AbdallahJalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AbdallahJalil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
