@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, This is Abdallah Jalil</h1>
-<h3 align="center">Graduated Computer Science Student || High Distinction || Researcher</h3>
+<h1 align="center">Abdallah Jalil</h1>
+<h3 align="center">Bachelor in Computer Science with High Distinction</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=019mj&label=Profile%20views&color=0e75b6&style=flat" alt="019mj" /> </p>
 
