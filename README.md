@@ -3,6 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=019mj&label=Profile%20views&color=0e75b6&style=flat" alt="019mj" /> </p>
 
+<blockquote>
+This is my GitHub Account. There are many like it but this one’s mine.  
+My GitHub Account is my best friend. It is my life.  
+I must master it as I must master my life.  
+Without me, my GitHub Account is useless.
+Without my GitHub Account, I am useless.
+</blockquote>
 
 - 📝 I regularly create educational content at [Abdallah Jalil](https://www.youtube.com/@AbdallahJalil)
 
